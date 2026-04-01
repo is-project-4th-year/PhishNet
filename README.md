@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://img.shields.io/badge/PhishNet-AI%20Phishing%20Detection-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="PhishNet" />
+<img src="https://img.shields.io/badge/PhishNet-Phishing%20Email%20Detection-7C3AED?style=for-the-badge&logo=shield&logoColor=white" alt="PhishNet" />
 
 #  PhishNet
 ### On-Demand Browser extension for Email Phishing Detection Using BERT

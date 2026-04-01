@@ -5,7 +5,7 @@
 #  PhishNet
 ### On-Demand Browser extension for Email Phishing Detection Using BERT
 
-> *Intelligent, lightweight phishing protection — built right into your browser.*
+
 
 [![Python](https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white)](https://python.org)
 [![React](https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black)](https://reactjs.org)
@@ -37,7 +37,6 @@
 - [Project Structure](#-project-structure)
 - [Testing](#-testing)
 - [Roadmap](#-roadmap)
-- [Contributing](#-contributing)
 - [Author](#-author)
 
 ---
@@ -52,7 +51,7 @@ Developed as a final-year project at **Strathmore University, Nairobi**, PhishNe
 
 ##  The Problem
 
-> Phishing accounted for **36% of all data breaches** in 2023 *(Verizon DBIR, 2023)*. Yet most detection tools are built for enterprises — expensive, complex, and inaccessible to everyday users.
+> Phishing accounted for **36% of all data breaches** in 2023 *(Verizon DBIR, 2023)*. Yet most detection tools are built for enterprises are expensive, complex, and inaccessible to everyday users.
 
 | Gap in Existing Tools | How PhishNet Solves It |
 |---|---|
